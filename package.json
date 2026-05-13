@@ -11,7 +11,9 @@
     "@types/react": "^18.2.45",
     "@types/react-dom": "^18.2.18",
     "loader-utils": "3.2.1",
-    "typescript": "5.7.2"
+    "typescript": "5.7.2",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
